@@ -23,7 +23,7 @@
 ![](https://github.com/Gopika-Manoj/Internship/blob/main/IMG_20240127_092239.jpg)
 ![](https://github.com/Gopika-Manoj/Internship/blob/main/day26.JPG)
 ![](https://github.com/Gopika-Manoj/Internship/blob/main/day24.JPG)
-![](
+![](https://github.com/Gopika-Manoj/Internship/blob/main/day23.JPG)
 
 ## DAY 3
 
