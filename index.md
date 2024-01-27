@@ -21,14 +21,14 @@
 ### CREO APP IS ALSO USED FOR DESIGNING 3D SHAPES.WE DESIGNED AN BASIC SHAPE TO GET MORE INFORMATIONS OF ITS TABS AND MENUS AS WE PLANNED TO DESIGN A BALL BEARING ON 3rd DAY.
 ### TO SEE THE SHAPE WE DESIGNED IS
 ![](https://github.com/Gopika-Manoj/Internship/blob/main/IMG_20240127_092239.jpg)
-![](https://github.com/Gopika-Manoj/Internship/blob/main/day26.JPG)
-![](https://github.com/Gopika-Manoj/Internship/blob/main/day24.JPG)
-![](https://github.com/Gopika-Manoj/Internship/blob/main/day23.JPG)
 
 ## DAY 3
 
 ### THE NEXT DAY WE STARTED OF WITH DESIGNING BALL BEARING.OUR PLAN WAS TO DESIGN THE VARIOUS PARTS OF BALL BEARING ONE BY ONE AND LATER ASSEMBLING THE SAME.
 ### THE PARTS WE DESIGNED ARE 
+![](https://github.com/Gopika-Manoj/Internship/blob/main/day26.JPG)
+![](https://github.com/Gopika-Manoj/Internship/blob/main/day24.JPG)
+![](https://github.com/Gopika-Manoj/Internship/blob/main/day23.JPG)
 
 
 ### LATER IN THE AFTERNOON SESSION WE HAD THE CLASS OF ARC WELDING ROBOT AND LATER WE PROGRAMMED IT AND WE SAW THE FUNCTIONING OF IT.
