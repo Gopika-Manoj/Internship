@@ -5,3 +5,5 @@
 ### DAY 1
 
 # WE STARTED OF WITH INTRODUCING OURSELVES INTO A 3D DESIGNING SITE [TINKERCAD](https://www.tinkercad.com/things/h8pAe8wPh30-mighty-snaget-jofo/edit)
+# I DESIGNED A SMALL HOUSE USING THIS SITE.
+# [DESIGN](
