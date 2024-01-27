@@ -21,6 +21,7 @@
 ### CREO APP IS ALSO USED FOR DESIGNING 3D SHAPES.WE DESIGNED AN BASIC SHAPE TO GET MORE INFORMATIONS OF ITS TABS AND MENUS AS WE PLANNED TO DESIGN A BALL BEARING ON 3rd DAY.
 ### TO SEE THE SHAPE WE DESIGNED IS
 !(https://github.com/Gopika-Manoj/Internship/blob/main/IMG_20240127_092239.jpg)
+!(https://github.com/Gopika-Manoj/Internship/blob/main/day26.JPG)
 !(
 
 
