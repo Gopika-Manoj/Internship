@@ -29,8 +29,9 @@
 ![](https://github.com/Gopika-Manoj/Internship/blob/main/day26.JPG)
 ![](https://github.com/Gopika-Manoj/Internship/blob/main/day24.JPG)
 ![](https://github.com/Gopika-Manoj/Internship/blob/main/day23.JPG)
-
+![](https://github.com/Gopika-Manoj/Internship/blob/main/day22.JPG)
 
 ### LATER IN THE AFTERNOON SESSION WE HAD THE CLASS OF ARC WELDING ROBOT AND LATER WE PROGRAMMED IT AND WE SAW THE FUNCTIONING OF IT.
+  - THE ARC WELDING ROBOT WAS OF MODEL **AR1440** -
 
 
