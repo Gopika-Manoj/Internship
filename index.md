@@ -60,4 +60,6 @@
  - ## LATHE
 ![](https://github.com/Gopika-Manoj/Internship/blob/main/WhatsApp%20Image%202024-01-29%20at%206.09.51%20AM.jpeg)
 - ## MILLING MACHINE
+![](https://github.com/Gopika-Manoj/Internship/blob/main/WhatsApp%20Image%202024-01-27%20at%203.51.43%20PM.jpeg)
+- ## FORGING HAMMER
 ![]()
