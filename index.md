@@ -53,3 +53,11 @@
 ![](https://github.com/Gopika-Manoj/Internship/blob/main/WhatsApp%20Image%202024-01-28%20at%206.01.59%20PM.jpeg)
  - ## MEASURING TOOLS
 ![](https://github.com/Gopika-Manoj/Internship/blob/main/WhatsApp%20Image%202024-01-29%20at%206.11.06%20AM.jpeg)
+ - ## ELECTRIC FURNACE UNIT
+![](https://github.com/Gopika-Manoj/Internship/blob/main/WhatsApp%20Image%202024-01-29%20at%206.10.36%20AM.jpeg)
+ - ## DRILLING MACHINE
+![]()
+ - ## LATHE
+![]()
+- ## MILLING MACHINE
+![]()
