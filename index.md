@@ -58,6 +58,6 @@
  - ## DRILLING MACHINE
 ![]()
  - ## LATHE
-![]()
+![](https://github.com/Gopika-Manoj/Internship/blob/main/WhatsApp%20Image%202024-01-29%20at%206.09.51%20AM.jpeg)
 - ## MILLING MACHINE
 ![]()
